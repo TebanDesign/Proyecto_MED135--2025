@@ -28,6 +28,9 @@ La lista enlazada permite:
 
 Todo esto mediante una interfaz gráfica moderna que facilita la interacción. 🙌
 
+![image](https://github.com/user-attachments/assets/c5a98043-1135-41e2-9797-a616508ebb2a)
+
+
 ---
 
 ## 🗂️ Estructura del Proyecto
